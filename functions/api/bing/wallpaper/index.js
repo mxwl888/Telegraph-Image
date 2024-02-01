@@ -1,4 +1,4 @@
-export async function onRequest(context) {
+/*export async function onRequest(context) {
     // Contents of context object
     const {
       request, // same as existing Worker API
@@ -17,5 +17,4 @@ export async function onRequest(context) {
     }
     const info = JSON.stringify(return_data);
     return new Response(info);
-
-  }
+  }*/
