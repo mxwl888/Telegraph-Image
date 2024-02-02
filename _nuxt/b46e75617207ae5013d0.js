@@ -207,14 +207,11 @@
               , e = this._self._c || t;
             return e("div", {
                 staticClass: "footer"
-            }, [this._v("\n  基于 "), e("a", {
             }, [this._v("\n  该图床由 "), e("a", {
                 attrs: {
-                    href: "https://telegra.ph",
                     href: "https://potato.xudakj.com/",
                     target: "_blank"
                 }
-            }, [this._v("Telegraph")]), this._v(" 的图片上传工具\n")])
             }, [this._v("土豆API")]), this._v(" 提供\n")])
         }
         ], !1, null, "5d5649c4", null).exports)
