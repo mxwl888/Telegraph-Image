@@ -392,7 +392,7 @@
                         attrs: {
                             for: "upFiles"
                         }
-                    }, [t._v("选择上传图片或视频")])], 1)]), t._v(" "), o("div", {
+                    }, [t._v("请选择需要上传的图片")])], 1)]), t._v(" "), o("div", {
                         directives: [{
                             name: "show",
                             rawName: "v-show",
